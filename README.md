@@ -1,6 +1,6 @@
 ### Correlated Orienteering 
 
-![cop](https://user-images.githubusercontent.com/23622170/124700598-fd4e9100-deba-11eb-9e91-d9f747babdec.png)
+![cop-tor-16](https://user-images.githubusercontent.com/23622170/124762395-d87d0c80-df00-11eb-8d9f-f7f25f06e494.png)
 
 Source code used in the following work
 
