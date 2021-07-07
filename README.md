@@ -1,5 +1,7 @@
 ### Correlated Orienteering 
 
+![cop](https://user-images.githubusercontent.com/23622170/124700598-fd4e9100-deba-11eb-9e91-d9f747babdec.png)
+
 Source code used in the following work
 
 J. Yu, M. Schwager, and D. Rus. Correlated Orienteering Problem and its Application to Persistent Monitoring Tasks. IEEE Transactions on Robotics, 32(5), page(s): 1106 - 1118, 2016 
